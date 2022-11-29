@@ -1,20 +1,18 @@
-# Entwurf Satzung „Sharing Paderborn“ e.V.
-Stand: 28.10.22
+# Entwurf Satzung "Sharing Paderborn e.V."
 
-# § 1 Zugehörigkeit, Name, Sitz, Geschäftsjahr
-1. Der Name des Vereins (im folgenden „Verein“) lautet: „Unbekannt“
-2. Er soll in das Vereinsregister eingetragen werden und führt dann den Zusatz „e.V.“.
-3. Der Verband vertritt die Ziele der nicht-gewerblichen Initiativen zum kostenfreien Verleih von Lastenrädern einschließlich -anhänger und Sonderfahrzeuge bzw. Güter des alltäglichen Gebrauchs (im folgenden „Mitgliedsorganisationen“).
-4. Der Verband hat seinen Sitz in Paderborn / Detmold. Er wurde am tt.mm.jjjj errichtet.
-5. Der Verband ist parteipolitisch, ethnisch und weltanschaulich neutral.
-6. Das Geschäftsjahr des Verbands ist das Kalenderjahr.
+# § 1 Name, Sitz, Geschäftsjahr
+1. Der Name des Vereins (im folgenden „Verein“) lautet: „Unbekannt“.
+Er soll in das Vereinsregister eingetragen werden und führt dann den Zusatz "e.V.".
+4. Der Verein hat seinen Sitz in Paderborn / Detmold. Er wurde am tt.mm.jjjj errichtet.
+5. Der Verein ist parteipolitisch, ethnisch und weltanschaulich neutral.
+6. Das Geschäftsjahr des Vereins ist das Kalenderjahr.
 
 # § 2 Zweck und Aufgaben
 1. Zweck des Verbands ist die Förderung des Umweltschutzes, des Klimaschutzes und der Bildung.
-Der Satzungszweck wird insbesondere verwirklicht.
-    1. durch die Förderung der kostenfreien Leihe von Lastenrädern und Gegenständen des alltäglichen Gebrauchs.
-    2. durch die Interessenvertretung der Mitgliedsorganisationen in der Öffentlichkeit sowie gegenüber anderen Verbänden und Organisationen
-    3. durch Medienkampagnen und -präsenz und sonstige geeignete Maßnahmen für die stärkere Nutzung von Sharing-Angeboten und den Verzicht bzw. Reduktion von Neukäufen.
+Der Satzungszweck wird insbesondere verwirklicht durch:
+    1. die Förderung der kostenfreien Leihe von Lastenrädern und Gegenständen des alltäglichen Gebrauchs.
+    2. die Interessenvertretung der Mitgliedsorganisationen in der Öffentlichkeit sowie gegenüber anderen Verbänden und Organisationen
+    3. Medienkampagnen und -präsenz und sonstige geeignete Maßnahmen für die stärkere Nutzung von Sharing-Angeboten und den Verzicht bzw. Reduktion von Neukäufen.
     
 2. Aufgaben des Vereins umfassen insbesondere auch
     1. Die Entwicklung, Verbreitung oder Unterstützung von Konzepten und Bestrebungen zur Anhebung des Anteils des Lastenrades am Gesamtverkehr sowie Durchführung von Kampagnen, Aktionen und Projekten, die dieses Interesse verfolgen.
@@ -23,12 +21,10 @@ Der Satzungszweck wird insbesondere verwirklicht.
     4. Die Herausgabe und Veranlassung von Medien zur Lastenradnutzung in all seinen Aspekten allein oder in Gemeinschaft mit anderen Organisationen.
     5. Die Organisation von Vorträgen, Schulungs- und Übungsveranstaltungen zur Lastenradnutzung.
 
-
 # § 3 Gemeinnützigkeit
-1. Der Verband verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
+1. Der Verband verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 Er ist selbstlos tätig.
 Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
-2. Der Verband ist unabhängig und verfolgt keine Standes- und Berufsinteressen.
 3. Mittel des Verbands dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
 Der Verband darf keine Person oder Mitgliedsorganisation durch Ausgaben, die dem Zweck des Verbands fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigen.
 4. Vorstand und Delegierte arbeiten ehrenamtlich.
@@ -36,38 +32,44 @@ Nachgewiesene Auslagen für die satzungsmäßige Verbandsarbeit werden ihnen inn
 Darüber hinaus gilt:
     1. Mitgliedern des Vorstands, aktiv tätige Delegierte oder sonstige Aktive kann als Vergütung für anfallende Zeitaufwände die Ehrenamtspauschale gezahlt werden.
     Die Entscheidung hierüber trifft der Vorstand; sowie falls Mitglieder des Vorstands begünstigt werden sollen, die Mitgliederversammlung.
-    2. die geringfügige Beschäftigung (“Minijob“) von Mitgliedern des Vorstands sowie im Verband aktiv tätige Delegierte der Mitgliedsorganisationen ist möglich nach einem Beschluss hierüber durch die Mitgliederversammlung.
+    2. die geringfügige Beschäftigung (“Minijob“) von Mitgliedern des Vorstands sowie im Verband aktiv tätige Delegierte der Mitgliedsorganisationen ist möglich.
+    Die Entscheidung hierüber trifft die Mitgliederversammlung.
     3. Aufwände zur Teilnahme an der Mitgliederversammlung werden Delegierten nicht erstattet.
 
 # § 4 Mitgliedschaft
-1. Mitglieder können sein: Organisationen (z.B. Sharing-Initiativen, im folgenden “Mitgliedsorganisationen”) sowie natürliche Personen.
-2. Fördermitglieder können sein: natürliche Personen sowie juristische Personen aller Art.
-3. Über den schriftlich zu stellenden Aufnahmeantrag entscheidet der Vorstand.
-4. Die Mitgliedschaft endet
-    1. durch Auflösung der Mitgliedsorganisation bzw. durch Tod der Einzelmitglieder,
-    2. durch Austrittserklärung,
-    3. durch Ausschluss.
-5. Der Austritt aus dem Verein kann in schriftlicher Form jederzeit gegenüber dem Vorstand erklärt werden.
+1. Der Verein hat folgende Mitglieder:
+    1. Ordentliches Mitglied:
+    Natürliche oder juristische Personen (z.B. Sharing-Initiativen, im folgenden "Mitgliedsorganisationen").
+    Die juristischen Personen werden im Verein durch eine von ihnen bestimmte natürliche Person (Deligierte(r)) vertreten.
+    Ein ordentliches Mitglied hat volles Stimmrecht bei den Mitgliederversammlungen.
+    2. Fördermitglied:
+    Natürliche Personen sowie juristische Personen aller Art.
+    Es hat weder Rechte noch Pflichten eines ordentlichen Mitglieds.
+3. Die Aufnahme ist schriftlich oder elektronisch beim Vorstand zu beantragen.
+3. Über die Aufnahme entscheidet der Vorstand.
+4. Die Mitgliedschaft endet durch Tod, Austritt, Ausschluss oder Auflösung der juristischen Person.
+5. Der Austritt ist zum Monatsende des Folgemonats möglich. Er erfolgt in Textform oder
+elektronisch gegenüber dem Vorstand.
 Sind Beiträge für laufende Geschäftsjahr geschuldet, werden diese durch den Austritt nicht berührt.
-6. Der Vorstand kann ein Mitglied bzw. eine Mitgliedsorganisationen aus dem Verband ausschließen, wenn dessen Verhalten dem Verband schadet und den Verbandszwecken zuwiderläuft oder auch nach zweimaliger schriftlicher Mahnung ein fälliger Jahresbeitrag oder Kostenbeitrag nicht bezahlt wurde.
+6. Der Vorstand kann ein Mitglied aus dem Verein ausschließen, sein Verhalten in
+grober Weise gegen die Interessen des Vereins verstößt oder auch nach zweimaliger schriftlicher Mahnung ein fälliger Jahresbeitrag oder Kostenbeitrag nicht bezahlt wurde.
 Der Vorstand kann den Ausschluss auch auf die Person des oder der Delegierten einer Mitgliedsorganisation beschränken, die Person also ausschließen, nicht aber die Mitgliedsorganisation.
 Gegen den Ausschluss ist die Beschwerde zur Mitgliederversammlung zulässig.
 Die Beschwerde gegen den Ausschluss ist innerhalb eines Monats nach Erhalt schriftlich beim Vorstand einzulegen.
-Der Vorstand kann der Beschwerde abhelfen oder ihr die aufschiebende Wirkung versagen.
 Bei der Entscheidung der Mitgliederversammlung hat das Mitglied kein Stimmrecht.
 
-# § 5 Pflichten der Mitglieder
+# § 5 Pflichten einer Mitgliedsorganisation
 1. Jede Mitgliedsorganisation unterstützt die Ziele des Vereins.
 2. Beschließt die Mitgliederversammlung Mitgliedsbeiträge, hat die Mitgliedsorganisation den Verband zum Bankeinzug zu ermächtigen.
-3. Jede Mitgliedsorganisation hat dem Vorstand Änderungen der Anschrift und Kontaktdaten (Adresse, Telefonnummer und E-Mail-Adresse) seiner Delegierten und/oder Stellvertreter einschließlich Änderungen in der Person des Delegierten und/oder seines Stellvertreters unverzüglich mitzuteilen.
-Die Mitteilung hat schriftlich zu erfolgen.
+3. Jede Mitgliedsorganisation hat dem Vorstand Änderungen der Anschrift und Kontaktdaten (Adresse, Telefonnummer und E-Mail-Adresse) seiner Delegierten einschließlich Änderungen in der Person des Delegierten unverzüglich mitzuteilen.
+Die Mitteilung hat schriftlich oder elektronisch zu erfolgen.
 Mitteilungen im Vorfeld einer Mitgliederversammlung müssen dem Vorstand 
 spätestens 3 Werktage vor ihrer Durchführung vorliegen.
 
-# § 6 Organe des Verbands
+# § 6 Organe des Vereins
 Die Organe des Verbands sind
-- die Mitgliederversammlung und
-- der Vorstand.
+- Die Mitgliederversammlung
+- Der Vorstand.
 
 # §7 Die Mitgliederversammlung
 1. Es findet jährlich mindestens eine ordentliche Mitgliederversammlung statt.
