@@ -44,7 +44,7 @@ Darüber hinaus gilt:
     1. Ordentliches Mitglied:
     Natürliche oder juristische Personen (z.B. Sharing-Initiativen, im Folgenden "Mitgliedsorganisationen").
     Die juristischen Personen werden im Verein von ihnen bestimmte natürliche Person (Deligierte(r)) vertreten.
-    Ein ordentliches Mitglied hat volles Stimmrecht bei den Mitgliederversammlungen.
+    Ein ordentliches Mitglied hat eine Stimme bei den Mitgliederversammlungen.
     2. Fördermitglied:
     Natürliche Personen sowie juristische Personen aller Art.
     Es hat weder Rechte noch Pflichten eines ordentlichen Mitglieds.
@@ -75,18 +75,31 @@ Die Organe des Vereins sind
 - Der Vorstand.
 
 # §7 Die Mitgliederversammlung
-[//]: # (1-7. Einberufung, Funktion; 8-end. Beschlussfähigkeit, Stimmenmehrheit)
+[//]: # (1-6. Einberufung, Funktion)
+[//]: # (4,5 Beschlussfähigkeit, Stimmenmehrheit)
+[//]: # (5.2. ja > Nein != mehrheitliche zustimmung, da enthaltungen dann nicht wohldefiniert sind)
 
 1. Die Mitgliederversammlung ist mindestens einmal im Kalenderjahr einzuberufen.
-2. Eine außerordentliche Mitgliederversammlung kann durch Vorstandsbeschlusse oder durch schriftliches Verlangen mindestens eines Viertels der ordentlichen Mitglieder gegenüber dem Vorstand einberufen werden.
-3. Die Einberufung von Mitgliederversammlungen erfolgt durch den Vorstand per E-Mail unter Angabe der vorläufigen Tagesordnung und unter Einhaltung einer Ladungsfrist von mindestens 14 Tagen.
-Vorliegende Anträge sind als Anlage der Einladung beizufügen, innerhalb der Ladungsfrist eingehende Anträge sind den Mitgliedern unverzüglich per E-Mail nachzureichen.
-4. Die Mitgliederversammlung wählt einen Versammlungsleiter und einen Protokollführer.
-Wählbar sind Vorstandsmitglieder und Delegierte.
-5. Jede Mitgliederversammlung kann online (als Videokonferenz über das Internet) oder hybrid (mit der freien Wahl eines jeden Mitglieds, in Präsenz oder online teilzunehmen) durchgeführt werden und alle Arten von Beschlüssen fassen, wenn die gesetzlichen Voraussetzungen erfüllt werden.
-Über die Durchführung einer Mitgliederversammlung als online oder hybrid durchzuführende Mitgliederversammlung beschließt der Vorstand.
-Die Modalitäten für die Einladung zur online oder hybrid durchgeführten Mitgliederversammlung sind gleich wie bei der Präsenz-Mitgliederversammlung.
-6. Der Mitgliederversammlung entscheidet über:
+3. Die Einladung erfolgt schriftlich oder elektronisch, mindestens vier Wochen vor Durchführung der
+Versammlung mit Angabe der Tagesordnung. Einberufung und Leitung erfolgt durch den
+Vorstand.
+2. Außerordentliche Mitgliederversammlungen können durch Vorstandsbeschluss oder durch schriftliches Verlangen mindestens eines Drittels der ordentlichen Mitglieder gegenüber dem Vorstand einberufen werden.
+3. Jede Mitgliederversammlung auf drei Arten durchgeführt werden:
+    1. in Anwesendheit;
+    1. online (als Videokonferenz über das Internet);
+    2. hybrid (mit der freien Wahl eines jeden Mitglieds, in Präsenz oder online teilzunehmen).
+Die Durchführungsart beschließt der Vorstand.
+Ungeachtet der Durchführungsart können alle Beschlüsse gefasst werden, für welche die gesetzlichen Voraussetzungen erfüllt werden.
+4. Beschlussfähigkeit:
+    1. Zum Zweck der Satzungsänderung oder der Vereinsauflösung ist die Mitgliederversammlung beschlussfähig, wenn mindestens ein Drittel der Stimmberechtigten vertreten sind.
+Sollte eine zu diesem Zweck einberufene Mitgliederversammlung nicht beschlussfähig sein, so kann der Vorstand binnen zwei Monaten eine weitere Mitgliederversammlung einberufen, die ohne Rücksicht auf die Zahl der anwesenden Stimmberechtigten beschlussfähig ist.
+In der Ladung ist auf diese Bestimmung hinzuweisen.
+    2. Im Übrigen ist die Mitgliederversammlung ohne Rücksicht auf die Zahl der Stimmberechtigten beschlussfähig.
+5. Annahme von Anträgen:
+    1. Anträge zur Satzungsänderung oder Vereinsauflösung werden angenommen mehr als doppelt so viele Ja-stimmen wie Nein-stimmen abgegeben wurden. 
+    2. Im Übrigen Anträge werden angenommen wenn mehr Ja- als Nein-stimmen abgegeben wurden.
+6. Über Beschlüsse und Wahlen ist ein Protokoll anzufertigen.
+7. Der Mitgliederversammlung entscheidet über:
     1. Genemigung der Bilanz und der Jahresrechnung
     3. Entlastung des Vorstands
     2. Wahl und Abberufung von Vorstandsmitgliedern
@@ -95,18 +108,8 @@ Die Modalitäten für die Einladung zur online oder hybrid durchgeführten Mitgl
     6. Festlegung von Mitgliedsbeiträgen
     7. Satzungsänderung
     7. Auflösung des Vereins
-    8. die Entscheidung über alle Anträge und sonstige Tagesordnungspunkte
-7. Mitgliedsorganisationen haben jeweils eine Stimme in der Mitgliederversammlung (dem Verein gemeldeter Delegierter bzw. Vertreter des Delegierten).
-Stimmrechtsübertragung ist nicht zulässig.
-9. Die Mitgliederversammlung ist im Fall einer Satzungsänderung und der Auflösung des Vereins beschlussfähig, wenn mindestens ein Drittel der Stimmberechtigten vertreten sind.
-Ist eine Mitgliederversammlung, die über eine Satzungsänderung oder die Auflösung des Vereins befinden soll, beschlussunfähig, so kann der Vorstand binnen zwei Monaten eine weitere Mitgliederversammlung einberufen, die ohne Rücksicht auf die Zahl der anwesenden Stimmberechtigten beschlussfähig ist.
-In der Ladung ist auf diese Bestimmung hinzuweisen.
-Im Übrigen ist die Mitgliederversammlung ohne Rücksicht auf die Zahl der Stimmberechtigten beschlussfähig.
-11. Anträge zur Mitgliederversammlung sind spätestens drei Tage vor dem Tag ihrer Durchführung beim Vorstand schriftlich per E-Mail zu stellen und zu begründen.
-In Bezug auf danach sowie in der Mitgliederversammlung vorgebrachte Anträge entscheidet die Mitgliederversammlung zunächst, ob diese zur Diskussion und Beschlussfassung zugelassen werden.
-12. Über alle anderen Beschlüsse und Anträge entscheidet die einfache Stimmenmehrheit der anwesenden Stimmberechtigten, wobei Stimmenenthaltungen nicht mitgezählt werden.
-13. Über die gefassten Beschlüsse sind Protokolle zu fertigen.
-Diese sind zu unterzeichnen durch den Protokollführer sowie zwei Vorstandsmitglieder.
+    8. Entscheidung über alle Anträge und sonstige Tagesordnungspunkte
+
 
 # § 8 Der Vorstand
 1. Der Vorstand besteht aus zwei bis vier Vorsitzenden und einer Schatzmeisterin oder einem Schatzmeister.
@@ -135,11 +138,11 @@ Gibt es keine Geschäftsordnung, gilt:
 # § 8 Kassenprüfung
 1. Zum Ende des Geschäftsjahres wird die Vereinskasse durch einen nicht dem Vorstand
 angehörigen Kassenprüfer geprüft.
-1. Der Kassenprüfer wird durch die ordentliche Mitgliederversammlung für das folgende
-Geschäftsjahr gewählt. Als Kassenprüfer können nur Mitglieder gewählt werden.
+1. Kassenprüfer werden durch die ordentliche Mitgliederversammlung für das folgende
+Geschäftsjahr gewählt.
+Als Kassenprüfer:innen können nur ordentliche Mitglieder gewählt werden.
 
 # § 9 Auflösung des Vereins
-1. Die Auflösung des Vereins bedarf der Zustimmung von zwei Dritteln aller abgegebenen Stimmen.
 1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des
 Vereins an die Bürgerstiftung Paderborn, die es unmittelbar und ausschließlich für gemeinnützige
 Zwecke zu verwenden hat.
