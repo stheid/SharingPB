@@ -13,16 +13,16 @@ Er soll in das Vereinsregister eingetragen werden und führt dann den Zusatz "e.
 [//]: # (1. was will der Verein; 2. wie will er das erreichen)
 
 1. Zweck des Vereins ist die Förderung des Umweltschutzes, des Klimaschutzes und der Bildung.
-Der Satzungszweck wird insbesondere verwirklicht durch:
-    1. die Förderung der kostenfreien Leihe von Lastenrädern und Gegenständen des alltäglichen Gebrauchs.
-    2. die Interessenvertretung der Mitgliedsorganisationen in der Öffentlichkeit sowie gegenüber anderen Verbänden und Organisationen
-    3. Medienkampagnen und -präsenz und sonstige geeignete Maßnahmen für die stärkere Nutzung von Sharing-Angeboten und den Verzicht bzw. Reduktion von Neukäufen.
-2. Aufgaben des Vereins umfassen insbesondere auch
-    1. Die Entwicklung, Verbreitung oder Unterstützung von Konzepten und Bestrebungen zur Anhebung des Anteils des Lastenrades am Gesamtverkehr sowie Durchführung von Kampagnen, Aktionen und Projekten, die dieses Interesse verfolgen.
-    2. Die Zusammenarbeit mit Behörden, Mandatsträgern, öffentlichen Einrichtungen und der Öffentlichkeit, zur Verbesserung der finanziellen, rechtlichen und verkehrstechnischen Grundlagen und Möglichkeiten des Lastenradverkehrs
-    3. Die Zusammenarbeit mit Verbänden, Initiativen, Organisationen und Einzelpersonen
-    4. Die Herausgabe und Veranlassung von Medien zur Lastenradnutzung in all seinen Aspekten allein oder in Gemeinschaft mit anderen Organisationen.
-    5. Die Organisation von Vorträgen, Schulungs- und Übungsveranstaltungen zur Lastenradnutzung.
+2. Der Verein fördert:
+    1. kostenfreien Leihe von Lastenrädern in Kooperation mit dezentralen Leihstationen.
+    2. eine Platform zum dezentralen Verleihen von Gegenständen des alltäglichen Gebrauchs.
+    3. eine Erhöhung des Anteils von Lastenrädern am Verkehr.
+    4. Anreize zum Verzicht auf Neukäufe.  
+2. Der Vereinszweck soll erreicht werden durch:
+    1. niederschwellige Leihangebote zum ausprobieren von Lastenrädern.
+    2. öffentlichkeitswirksame Kampagnen, Aktionen und Projekte.
+    3. Vorträge, Schulungs- und Übungsveranstaltungen; beispielsweise zur Lastenradnutzung.
+    4. die Zusammenarbeit mit Organisationen und Initiativen.
 
 # § 3 Gemeinnützigkeit
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
