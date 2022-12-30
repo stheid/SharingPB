@@ -29,7 +29,7 @@ Er soll in das Vereinsregister eingetragen werden und führt dann den Zusatz "e.
 Er ist selbstlos tätig.
 Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 3. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden.
-Der Verein darf keine Person oder Mitgliedsorganisation durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigen.
+Der Verein darf keine natürliche oder juristische Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigen.
 4. Vorstand und Delegierte arbeiten ehrenamtlich.
 Nachgewiesene Auslagen für die satzungsmäßige Vereinsarbeit werden ihnen innerhalb von 12 Monaten nach ihrem Entstehen auf Antrag erstattet.
 Darüber hinaus gilt:
@@ -40,39 +40,44 @@ Darüber hinaus gilt:
     3. Aufwände zur Teilnahme an der Mitgliederversammlung werden Delegierten nicht erstattet.
 
 # § 4 Mitgliedschaft
+[//]: # (1.1. nicht öffentliche oder private personen sind zum beispiel selbstständig berufstätige die dadurch als privatperson und als einzelunternehmer mitglieder sein könnten und sich dadurch 2 stimmen kaufen können.)
+
 1. Der Verein hat folgende Mitglieder:
     1. Ordentliches Mitglied:
-    Natürliche oder juristische Personen (z.B. Sharing-Initiativen, im Folgenden "Mitgliedsorganisationen").
-    Die juristischen Personen werden im Verein von ihnen bestimmte natürliche Person (Deligierte(r)) vertreten.
-    Ein ordentliches Mitglied hat eine Stimme bei den Mitgliederversammlungen.
+    Sind natürliche oder juristische Personen des öffentlichen und privaten Rechts.
+    Sie haben eine Stimme bei den Mitgliederversammlungen.
+    Die juristischen Personen werden im Verein durch eine von ihnen bestimmte natürliche Person (Deligierte(r)) vertreten.
     2. Fördermitglied:
-    Natürliche Personen sowie juristische Personen aller Art.
-    Es hat weder Rechte noch Pflichten eines ordentlichen Mitglieds.
+    Natürliche und juristische Personen aller Art.
 3. Die Aufnahme ist schriftlich oder elektronisch beim Vorstand zu beantragen.
 3. Über die Aufnahme entscheidet der Vorstand.
 4. Die Mitgliedschaft endet durch Tod, Austritt, Ausschluss oder Auflösung der juristischen Person.
-5. Der Austritt ist zum Monatsende des Folgemonats möglich. Er erfolgt in Textform oder
-elektronisch gegenüber dem Vorstand.
+5. Der Austritt ist zum Monatsende des Folgemonats möglich.
+Er erfolgt in Textform oder elektronisch gegenüber dem Vorstand.
 Sind Beiträge für laufende Geschäftsjahr geschuldet, werden diese durch den Austritt nicht berührt.
-6. Der Vorstand kann ein Mitglied aus dem Verein ausschließen, sein Verhalten in
-grober Weise gegen die Interessen des Vereins verstößt oder auch nach zweimaliger schriftlicher Mahnung ein fälliger Jahresbeitrag oder Kostenbeitrag nicht bezahlt wurde.
+6. Der Vorstand kann ein Mitglied aus dem Verein ausschließen, sein Verhalten in grober Weise gegen die Interessen des Vereins verstößt oder auch nach zweimaliger schriftlicher Mahnung ein fälliger Jahresbeitrag oder Kostenbeitrag nicht bezahlt wurde.
 Der Vorstand kann den Ausschluss auch auf die Person des oder der Delegierten einer Mitgliedsorganisation beschränken, die Person also ausschließen, nicht aber die Mitgliedsorganisation.
 Gegen den Ausschluss ist die Beschwerde zur Mitgliederversammlung zulässig.
 Die Beschwerde gegen den Ausschluss ist innerhalb eines Monats nach Erhalt schriftlich beim Vorstand einzulegen.
 Bei der Entscheidung der Mitgliederversammlung hat das Mitglied kein Stimmrecht.
 
-# § 5 Pflichten einer Mitgliedsorganisation
-1. Jede Mitgliedsorganisation unterstützt die Ziele des Vereins.
-2. Beschließt die Mitgliederversammlung Mitgliedsbeiträge, hat die Mitgliedsorganisation den Vereins zum Bankeinzug zu ermächtigen.
-3. Jede Mitgliedsorganisation hat dem Vorstand Änderungen der Anschrift und Kontaktdaten (Adresse, Telefonnummer und E-Mail-Adresse) seiner Delegierten einschließlich Änderungen in der Person des Delegierten unverzüglich mitzuteilen.
+# § 5 Pflichten Mitglieder
+1. Ordentliche Mitglied:
+    1. Es unterstützt die Vereinsziele.
+    2. Es entricht Mitgliedsbeiträge und ermächtigt den Verein zum Bankeinzug.
+    3. Es muss dem Vorstand Änderungen der E-Mail-Adresse mitteilen.
 Die Mitteilung hat schriftlich oder elektronisch zu erfolgen.
 Mitteilungen im Vorfeld einer Mitgliederversammlung müssen dem Vorstand 
-spätestens 3 Werktage vor ihrer Durchführung vorliegen.
+spätestens 5 Werktage vor ihrer Durchführung vorliegen.
+2. Fördermitglieder:
+    1. Es hat weder Rechte noch Pflichten eines ordentlichen Mitglieds.
+    1. Es entricht Förderbeiträge und ermächtigt den Verein zum Bankeinzug.
 
 # § 6 Organe des Vereins
 Die Organe des Vereins sind
-- Die Mitgliederversammlung
-- Der Vorstand.
+- die Mitgliederversammlung
+- der Vorstand
+- die Kassenprüfer.
 
 # §7 Die Mitgliederversammlung
 [//]: # (1-6. Einberufung, Funktion)
@@ -80,24 +85,20 @@ Die Organe des Vereins sind
 [//]: # (5.2. ja > Nein != mehrheitliche zustimmung, da enthaltungen dann nicht wohldefiniert sind)
 
 1. Die Mitgliederversammlung ist mindestens einmal im Kalenderjahr einzuberufen.
-3. Die Einladung erfolgt schriftlich oder elektronisch, mindestens vier Wochen vor Durchführung der
-Versammlung mit Angabe der Tagesordnung. Einberufung und Leitung erfolgt durch den
-Vorstand.
+3. Die Einladung erfolgt per E-Mail, mindestens zwei Wochen vor Durchführung der Versammlung mit Angabe der Tagesordnung.
+Vorliegende Anträge sind als Anlage der Einladung beizufügen, innerhalb der Ladungsfrist eingehende Anträge sind den Mitgliedern zeitnah per E-Mail nachzureichen.
+Einberufung und Leitung erfolgt durch den Vorstand.
+4. Die Mitgliederversammlung wählt einen Versammlungsleiter und einen Protokollführer.
+Wählbar sind ordentliche Mitglieder.
 2. Außerordentliche Mitgliederversammlungen können durch Vorstandsbeschluss oder durch schriftliches Verlangen mindestens eines Drittels der ordentlichen Mitglieder gegenüber dem Vorstand einberufen werden.
-3. Jede Mitgliederversammlung auf drei Arten durchgeführt werden:
-    1. in Anwesendheit;
-    1. online (als Videokonferenz über das Internet);
-    2. hybrid (mit der freien Wahl eines jeden Mitglieds, in Präsenz oder online teilzunehmen).
-Die Durchführungsart beschließt der Vorstand.
-Ungeachtet der Durchführungsart können alle Beschlüsse gefasst werden, für welche die gesetzlichen Voraussetzungen erfüllt werden.
-4. Beschlussfähigkeit:
-    1. Zum Zweck der Satzungsänderung oder der Vereinsauflösung ist die Mitgliederversammlung beschlussfähig, wenn mindestens ein Drittel der Stimmberechtigten vertreten sind.
+4. Anträge zur Satzungsänderung und Vereinsauflösung:
+    1. Beschlussfähig ist die Mitgliederversammlung, wenn mindestens ein Drittel der Stimmberechtigten vertreten sind.
 Sollte eine zu diesem Zweck einberufene Mitgliederversammlung nicht beschlussfähig sein, so kann der Vorstand binnen zwei Monaten eine weitere Mitgliederversammlung einberufen, die ohne Rücksicht auf die Zahl der anwesenden Stimmberechtigten beschlussfähig ist.
 In der Ladung ist auf diese Bestimmung hinzuweisen.
-    2. Im Übrigen ist die Mitgliederversammlung ohne Rücksicht auf die Zahl der Stimmberechtigten beschlussfähig.
-5. Annahme von Anträgen:
-    1. Anträge zur Satzungsänderung oder Vereinsauflösung werden angenommen mehr als doppelt so viele Ja-stimmen wie Nein-stimmen abgegeben wurden. 
-    2. Im Übrigen Anträge werden angenommen wenn mehr Ja- als Nein-stimmen abgegeben wurden.
+    2. Diese Anträge sind angenommen wenn mehr als doppelt so viele Ja-stimmen wie Nein-stimmen abgegeben wurden. 
+5. Für alle übrigen Anträge:
+	1. Beschlussfähig ist die Mitgliederversammlung ohne Rücksicht auf die Zahl der Stimmberechtigten beschlussfähig.
+    2. Diese Anträge sind angenommen wenn mehr Ja- als Nein-stimmen abgegeben wurden.
 6. Über Beschlüsse und Wahlen ist ein Protokoll anzufertigen.
 7. Der Mitgliederversammlung entscheidet über:
     1. Genemigung der Bilanz und der Jahresrechnung
@@ -107,8 +108,8 @@ In der Ladung ist auf diese Bestimmung hinzuweisen.
     5. Entscheidung über Beschwerden gegen den Ausschluss von Mitgliedern
     6. Festlegung von Mitgliedsbeiträgen
     7. Satzungsänderung
-    7. Auflösung des Vereins
-    8. Entscheidung über alle Anträge und sonstige Tagesordnungspunkte
+    8. Auflösung des Vereins
+    8. Entscheidung über Anträge und sonstige Tagesordnungspunkte
 
 
 # § 8 Der Vorstand
@@ -123,8 +124,7 @@ Für geringfügige Geschäfte kann der Vorstand in seiner Geschäftsordnung Ausn
 Der Vorstand hat einmal jährlich zur Mitgliederversammlung einen Tätigkeits- und Finanzbericht vorzulegen.
 5. Der Vorstand trifft sich bei Bedarf zu einem Präsenz- oder virtuellen Treffen.
 Er ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder teilnehmen.
-Er entscheidet mit einfacher Mehrheit der abgegebenen Stimmen (Mehrheit der abgegebenen Stimmen, wobei Enthaltungen nicht mitgezählt werden).
-Besteht Stimmengleichheit, kommt kein Beschluss zustande.
+Ein Beschluss ist angenommen wenn mehr Ja- als Nein-stimmen abgegeben wurden.
 6. Der Vorstand kann für einzelne Arbeitsschwerpunkte Fach- oder Projektgruppen einrichten und diese für bestimmte Aufgaben bevollmächtigen.
 7. Der Vorstand kann für die Bewältigung der laufenden Geschäfte oder gesonderter Projekte einen Geschäftsführer und/oder andere Mitarbeiter einstellen, Dienstleister oder Freelancer beauftragen und diesen Aufgaben und Vollmachten übertragen.
 8. Der Vorstand soll sich eine Geschäftsordnung geben.
@@ -140,7 +140,7 @@ Gibt es keine Geschäftsordnung, gilt:
 angehörigen Kassenprüfer geprüft.
 1. Kassenprüfer werden durch die ordentliche Mitgliederversammlung für das folgende
 Geschäftsjahr gewählt.
-Als Kassenprüfer:innen können nur ordentliche Mitglieder gewählt werden.
+Als Kassenprüfer:innen können nur Mitglieder gewählt werden.
 
 # § 9 Auflösung des Vereins
 1. Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des
