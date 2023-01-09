@@ -14,14 +14,14 @@ Er soll in das Vereinsregister eingetragen werden und führt dann den Zusatz "e.
 
 1. Zweck des Vereins ist die Förderung des Umweltschutzes, des Klimaschutzes und der Bildung.
 2. Der Verein fördert:
-    1. kostenfreien Leihe von Lastenrädern in Kooperation mit dezentralen Leihstationen.
-    2. eine Platform zum dezentralen Verleihen von Gegenständen des alltäglichen Gebrauchs.
-    3. eine Erhöhung des Anteils von Lastenrädern am Verkehr.
+    1. kostenfreien Leihe von Lastenrädern in Kooperation mit dezentralen Leihstationen,
+    2. eine Platform zum dezentralen Verleihen von Gegenständen des alltäglichen Gebrauchs,
+    3. eine Erhöhung des Anteils von Lastenrädern am Verkehr,
     4. Anreize zum Verzicht auf Neukäufe.  
 2. Der Vereinszweck soll erreicht werden durch:
-    1. niederschwellige Leihangebote zum ausprobieren von Lastenrädern.
-    2. öffentlichkeitswirksame Kampagnen, Aktionen und Projekte.
-    3. Vorträge, Schulungs- und Übungsveranstaltungen; beispielsweise zur Lastenradnutzung.
+    1. niederschwellige Leihangebote zum ausprobieren von Lastenrädern,
+    2. öffentlichkeitswirksame Kampagnen, Aktionen und Projekte,
+    3. Vorträge, Schulungs- und Übungsveranstaltungen; beispielsweise zur Lastenradnutzung,
     4. die Zusammenarbeit mit Organisationen und Initiativen.
 
 # § 3 Gemeinnützigkeit
@@ -46,7 +46,7 @@ Darüber hinaus gilt:
     1. Ordentliches Mitglied:
     Sind natürliche oder juristische Personen des öffentlichen und privaten Rechts.
     Sie haben eine Stimme bei den Mitgliederversammlungen.
-    Die juristischen Personen werden im Verein durch eine von ihnen bestimmte natürliche Person (Deligierte(r)) vertreten.
+    Die juristischen Personen werden im Verein durch eine von ihnen bestimmte natürliche Person (Deligierte:r) vertreten.
     2. Fördermitglied:
     Natürliche und juristische Personen aller Art.
 3. Die Aufnahme ist schriftlich oder elektronisch beim Vorstand zu beantragen.
@@ -62,16 +62,16 @@ Die Beschwerde gegen den Ausschluss ist innerhalb eines Monats nach Erhalt schri
 Bei der Entscheidung der Mitgliederversammlung hat das Mitglied kein Stimmrecht.
 
 # § 5 Pflichten Mitglieder
-1. Ordentliche Mitglied:
+1. Ordentliche Mitglieder:
     1. Es unterstützt die Vereinsziele.
-    2. Es entricht Mitgliedsbeiträge und ermächtigt den Verein zum Bankeinzug.
+    2. Es entrichtet Mitgliedsbeiträge und ermächtigt den Verein zum Bankeinzug.
     3. Es muss dem Vorstand Änderungen der E-Mail-Adresse mitteilen.
 Die Mitteilung hat schriftlich oder elektronisch zu erfolgen.
 Mitteilungen im Vorfeld einer Mitgliederversammlung müssen dem Vorstand 
 spätestens 5 Werktage vor ihrer Durchführung vorliegen.
 2. Fördermitglieder:
     1. Es hat weder Rechte noch Pflichten eines ordentlichen Mitglieds.
-    1. Es entricht Förderbeiträge und ermächtigt den Verein zum Bankeinzug.
+    1. Es entrichtet Förderbeiträge und ermächtigt den Verein zum Bankeinzug.
 
 # § 6 Organe des Vereins
 Die Organe des Vereins sind
@@ -95,13 +95,13 @@ Wählbar sind ordentliche Mitglieder.
     1. Beschlussfähig ist die Mitgliederversammlung, wenn mindestens ein Drittel der Stimmberechtigten vertreten sind.
 Sollte eine zu diesem Zweck einberufene Mitgliederversammlung nicht beschlussfähig sein, so kann der Vorstand binnen zwei Monaten eine weitere Mitgliederversammlung einberufen, die ohne Rücksicht auf die Zahl der anwesenden Stimmberechtigten beschlussfähig ist.
 In der Ladung ist auf diese Bestimmung hinzuweisen.
-    2. Diese Anträge sind angenommen wenn mehr als doppelt so viele Ja-stimmen wie Nein-stimmen abgegeben wurden. 
+    2. Diese Anträge sind angenommen wenn mehr als doppelt so viele Ja-Stimmen wie Nein-Stimmen abgegeben wurden. 
 5. Für alle übrigen Anträge:
 	1. Beschlussfähig ist die Mitgliederversammlung ohne Rücksicht auf die Zahl der Stimmberechtigten beschlussfähig.
-    2. Diese Anträge sind angenommen wenn mehr Ja- als Nein-stimmen abgegeben wurden.
+    2. Diese Anträge sind angenommen wenn mehr Ja- als Nein-Stimmen abgegeben wurden.
 6. Über Beschlüsse und Wahlen ist ein Protokoll anzufertigen.
 7. Der Mitgliederversammlung entscheidet über:
-    1. Genemigung der Bilanz und der Jahresrechnung
+    1. Genehmigung der Bilanz und der Jahresrechnung
     3. Entlastung des Vorstands
     2. Wahl und Abberufung von Vorstandsmitgliedern
     4. Wahl der Kassenprüfer
@@ -124,12 +124,12 @@ Für geringfügige Geschäfte kann der Vorstand in seiner Geschäftsordnung Ausn
 Der Vorstand hat einmal jährlich zur Mitgliederversammlung einen Tätigkeits- und Finanzbericht vorzulegen.
 5. Der Vorstand trifft sich bei Bedarf zu einem Präsenz- oder virtuellen Treffen.
 Er ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder teilnehmen.
-Ein Beschluss ist angenommen wenn mehr Ja- als Nein-stimmen abgegeben wurden.
+Ein Beschluss ist angenommen, wenn mehr Ja- als Nein-Stimmen abgegeben wurden.
 6. Der Vorstand kann für einzelne Arbeitsschwerpunkte Fach- oder Projektgruppen einrichten und diese für bestimmte Aufgaben bevollmächtigen.
 7. Der Vorstand kann für die Bewältigung der laufenden Geschäfte oder gesonderter Projekte einen Geschäftsführer und/oder andere Mitarbeiter einstellen, Dienstleister oder Freelancer beauftragen und diesen Aufgaben und Vollmachten übertragen.
 8. Der Vorstand soll sich eine Geschäftsordnung geben.
 Gibt es keine Geschäftsordnung, gilt:
-    1. Die Einstellung von, Entfristung der Arbeitsverträge von sowie Entlassung von Geschäftsführern oder anderen Mitarbeitern sowie der Abschluss oder die Auflösung vergleichbarer Verträge mit Selbstständigen (Freelancer) bedürfen eines Vorstandsbeschlusses.
+    1. Die Einstellung von, Entfristung der Arbeitsverträge von sowie Entlassung von Geschäftsführern oder anderen Mitarbeiter:innen sowie der Abschluss oder die Auflösung vergleichbarer Verträge mit Selbstständigen (Freelancer) bedürfen eines Vorstandsbeschlusses.
     2. Presseerklärungen und andere allgemein verfügbare Veröffentlichungen wie die Errichtung von Kommunikationskanälen (z.B. Social Media Account) bedürfen eines Vorstandsbeschlusses.
     3. Rechtsgeschäfte mit wesentlichen finanziellen Verpflichtungen bedürfen grundsätzlich eines Vorstandsbeschlusses.
     Wesentliche finanzielle Verpflichtungen sind Rechtsgeschäfte ab einer Belastung von mehr als 1.000 EUR sowie Förderanträge mit einem beantragten Fördervolumen von mehr als 1.000 EUR.
@@ -137,8 +137,8 @@ Gibt es keine Geschäftsordnung, gilt:
     
 # § 8 Kassenprüfung
 1. Zum Ende des Geschäftsjahres wird die Vereinskasse durch einen nicht dem Vorstand
-angehörigen Kassenprüfer geprüft.
-1. Kassenprüfer werden durch die ordentliche Mitgliederversammlung für das folgende
+angehörigen Kassenprüfer:innen geprüft.
+1. Kassenprüfer:innen werden durch die ordentliche Mitgliederversammlung für das folgende
 Geschäftsjahr gewählt.
 Als Kassenprüfer:innen können nur Mitglieder gewählt werden.
 
